@@ -1,2 +1,2 @@
 # first-repo
-Learning how to use github
+Learning how to use github from youtube
